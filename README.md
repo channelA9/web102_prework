@@ -1,8 +1,8 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - *seamonsterGAMES*
 
-Submitted by: **Your Name Here**
+Submitted by: **Shaun Colegado**
 
-**seamonstergames** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**seamonsterGAMES** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
 Time spent: **2** hours spent in total
 
@@ -23,22 +23,22 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/4hduvtM.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+GIF created with ScreenToGif
 
 ## Notes
 
 Describe any challenges encountered while building the app.
 
+My biggest issue was trying to comprehend some of the unique functions like reduce and filter. I also had some issues trying to understand how to deconstruct some
+variables since I was working with an object type and didn't realize they had to match variable names.
+
+Beyond that, the remaining challenge was just refreshing my knowledge of JS since it had been a long time since I last used it. I was able to re-familiarize myself with the syntax fairly quickly. 
+
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [channel9A]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
